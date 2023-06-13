@@ -11,3 +11,6 @@ Bypasses roblox's stupid fucking anti ban evade system
 
 ## Showcase
 lol
+
+## Credits
+- Created by https://github.com/socialsuicide
