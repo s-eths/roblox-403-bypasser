@@ -52,5 +52,5 @@ if __name__ == "__main__":
     print("STATUS: Attempting to install a clean slate of roblox.\n")
     urlretrieve(f"https://setup.rbxcdn.com/{get_version()}-Roblox.exe", "RobloxPlayerLauncherFixer.exe")
     subprocess.call("RobloxPlayerLauncherFixer.exe", shell = True)
-    os.startfile(r"req/uninstall.bat")
+    os.startfile(r"uninstall.bat")
     print("STATUS: Error code 403 has now been fixed.")
