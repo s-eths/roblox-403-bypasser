@@ -10,7 +10,7 @@ Bypasses roblox's stupid fucking anti ban evade system
 - Run `run.bat` and await until it has bypassed!
 
 ## Showcase
-sadly could not show it with 403 (the error is fucked for me lol)
+Sadly couldn't show this with 403 due to the error not liking me
 https://github.com/socialsuicide/roblox-403-bypasser/assets/107208142/107c3ee5-0c42-417c-aee0-5111c11be957
 
 ## Credits
