@@ -1,5 +1,5 @@
 # Roblox Error Code 403 Fixer
-Bypasses robloxs stupid fucking anti ban evade system
+Bypasses roblox's stupid fucking anti ban evade system
 
 ## Requirements
  - [Python 3.11+](https://www.python.org/downloads/)
