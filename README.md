@@ -1,4 +1,4 @@
-# Roblox Error Code 403 Fixer
+# Roblox Error Code 403 Bypasser
 Bypasses roblox's stupid fucking anti ban evade system
 
 ## Requirements
