@@ -1,0 +1,1 @@
+DEL "RobloxPlayerLauncherFixer.exe"
