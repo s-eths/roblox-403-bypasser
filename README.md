@@ -10,7 +10,7 @@ Bypasses roblox's stupid fucking anti ban evade system
 - Run `run.bat` and await until it has bypassed!
 
 ## Showcase
-lol
+soon
 
 ## Credits
 - Created by https://github.com/socialsuicide
