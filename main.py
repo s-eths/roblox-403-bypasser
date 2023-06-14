@@ -1,9 +1,10 @@
-import getpass, requests, json, subprocess, psutil, shutil, os, colorama, readchar
-from urllib.request import urlretrieve
+import getpass, subprocess, psutil, shutil, os, colorama, readchar
+from urllib.request import urlretrieve, urlopen
 from colorama import Fore
 from win32com.client import GetObject
 
 os.system("title Roblox 403 Fixer")
+data = []
 
 def menu():
     print(f"""
@@ -21,11 +22,14 @@ def menu():
 
     """)
 
+def fetch_version_data():
+    for i in urlopen("http://setup.roblox.com/DeployHistory.txt"):
+        if str(i).replace("b'", "").replace("\\r\\n'", "").startswith("New WindowsPlayer version-"):
+            data.append(str(i).replace("b'", "").replace("\\r\\n'", ""))
+
 def get_version():
-    for i in requests.get("https://api.whatexploitsare.online/status").json():
-        for name in i:
-            if name == "ROBLOX":
-                return i[name]["version"]
+    fetch_version_data()
+    return "\n".join(data).splitlines()[-1].split("New WindowsPlayer ")[1].split(" at ")[0]
 
 def close_roblox():
     try:
