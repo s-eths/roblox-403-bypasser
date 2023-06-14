@@ -32,6 +32,7 @@ def get_version():
 def close_roblox():
     try:
         subprocess.call("TASKKILL /F /IM RobloxPlayerBeta.exe", shell = False)
+        print("\n")
     except:
         pass
     
