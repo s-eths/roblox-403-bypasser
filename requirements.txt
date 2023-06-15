@@ -3,3 +3,4 @@ colorama
 pywin32
 readchar
 urllib3
+requests
