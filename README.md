@@ -19,14 +19,10 @@ https://github.com/socialsuicide/roblox-403-bypasser/assets/107208142/375d3696-b
 # Roblox Error Code 403 Bypasser
 > Bypasses roblox's stupid fucking anti ban evade system.
 
-[![Supported Python versions]([https://img.shields.io/pypi/pyversions/TorrentP.svg](https://somsubhra.github.io/github-release-stats/?username=sethslol&repository=roblox-403-bypasser&page=1&per_page=5
-))](#Installation)
-
-One to two paragraph statement about your product and what it does.
-
-![](header.png)
-
 ## Installation
+
+Requirements
+ - [Python 3.11+](https://www.python.org/downloads/)
 
 OS X & Linux:
 
