@@ -16,9 +16,9 @@ https://github.com/socialsuicide/roblox-403-bypasser/assets/107208142/375d3696-b
 - Created by https://github.com/socialsuicide
 
 # Roblox Error Code 403 Bypasser
-https://static.wikia.nocookie.net/robloxcreepypasta/images/1/13/0E3A64D6-2212-488C-B023-EB45BE7D54E7.png/revision/latest?cb=20190622195331
 
-# ![Roblox Error Code 403 Bypasser]([https://uicdn.toast.com/toastui/img/tui-editor-bi.png](https://static.wikia.nocookie.net/robloxcreepypasta/images/1/13/0E3A64D6-2212-488C-B023-EB45BE7D54E7.png))
+
+[# ![Roblox Error Code 403 Bypasser]([https://external-preview.redd.it/RA_6w2sKlGPBJ1NGlIDTQmYpoqisNMafOnZFn6yrKcY.png?auto=webp&v=enabled&s=1a276791dbb345a7ef82b5fe8408310d85ce654d]))]
 
 > GFM  Markdown and WYSIWYG Editor - Productive and Extensible
 
