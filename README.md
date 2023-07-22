@@ -2,7 +2,7 @@
 Bypasses roblox's stupid fucking anti ban evade system
 
 ## TODO:
-- Add mac and linux support
+- Add mac support (nvm abt the linux support lol, i thought roblox supported linux still but seems 2 no longer mb abt that)
 - Add UWP roblox support
 - Freshly clean the code (lol)
 - Push compile into a exe file
