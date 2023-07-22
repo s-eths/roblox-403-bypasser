@@ -5,6 +5,7 @@ Bypasses roblox's stupid fucking anti ban evade system
 - Add mac and linux support
 - Add UWP roblox support
 - Freshly clean the code (lol)
+- Push compile into a exe file
 - Add UI??
 
 ## Requirements
