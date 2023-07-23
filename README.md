@@ -7,6 +7,7 @@ Bypasses roblox's stupid fucking anti ban evade system
 - Freshly clean the code (lol)
 - Push compile into a exe file
 - Add UI??
+- Add mutli language support (default english)
 
 ## Requirements
  - [Python 3.11+](https://www.python.org/downloads/)
