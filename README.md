@@ -1,16 +1,15 @@
-# THIS IS OUTDATED AND MAY NOT WORK USE AT YOUR OWN RISK!
-# i will update this soon when im not too lazy.
+this is outdated and may not work, i will update this whenever im not too lazy
 
 # Roblox Error Code 403 Bypasser
-Bypasses roblox's stupid fucking anti ban evade system
+Bypasses roblox's ban evade system
 
 ## TODO:
-- Add mac support (nvm abt the linux support lol, i thought roblox supported linux still but seems 2 no longer mb abt that)
-- Add UWP roblox support
-- Freshly clean the code (lol)
-- Push compile into a exe file
+- Add Mac Support
+- Add UWP Roblox Support
+- Rewrite the Code
+- Push Compile Into a .exe File
 - Add UI??
-- Add mutli language support (default english)
+- Add Mutli Language Support (Default English)
 
 ## Requirements
  - [Python 3.11+](https://www.python.org/downloads/)
@@ -24,4 +23,4 @@ Bypasses roblox's stupid fucking anti ban evade system
 https://github.com/socialsuicide/roblox-403-bypasser/assets/107208142/375d3696-b805-488d-9833-62195c1c7b5f
 
 ## Credits
-- Created by https://github.com/socialsuicide
+- Created by https://github.com/1sethh
