@@ -1,3 +1,6 @@
+# THIS IS OUTDATED AND MAY NOT WORK USE AT YOUR OWN RISK!
+# i will update this soon when im not too lazy.
+
 # Roblox Error Code 403 Bypasser
 Bypasses roblox's stupid fucking anti ban evade system
 
