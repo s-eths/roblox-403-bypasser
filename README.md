@@ -1,5 +1,5 @@
 # Roblox Error Code 403 Bypasser
-Bypasses roblox's ban evade system
+Bypasses roblox's ban evade system, created in python.
 
 ## How to run (WINDOWS)
 - Download or clone this repo
